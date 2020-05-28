@@ -5,3 +5,9 @@
 ```bash
 C:\Users\Benjamin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
+
+## Making ```disabler.py``` into exe
+- you will first have to ```cd``` to the location of your ```setup.py``` then run the following:
+```bash
+python setup.py build
+```
