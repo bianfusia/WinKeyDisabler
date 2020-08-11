@@ -14,4 +14,4 @@ python setup.py build
 - you will also how to redirect the batch script to launch your ```.exe``` instead.
 
 ## Note
-- This script on disable left arrow button, to disable other buttons your may refer to this [documentation](https://pypi.org/project/keyboard/)
+- This script on disable left arrow button, to disable other buttons your may refer to this [documentation](https://pypi.org/project/keyboard/).
